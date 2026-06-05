@@ -1,0 +1,9 @@
+{
+  "name": "ltokenviewer",
+  "compatibility_date": "2025-04-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "./build",
+    "not_found_handling": "single-page-application"
+  }
+}
